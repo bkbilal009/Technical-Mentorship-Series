@@ -17,20 +17,20 @@ My teaching approach focuses on:
 
 ## 📂 Repository Roadmap (Navigation)
 
-I have organized my sessions chronologically and by domain to ensure easy navigation for students and recruiters alike.
+I have organized my sessions chronologically and by domain to ensure easy navigation for students, recruiters, and academic professors.
 
 | Date | Session Title | Focus Area | Organization | Resources |
 |:--- |:--- |:--- |:--- |:--- |
-| **May 15, 2026** | **Mastering Graphs & LeetCode** | DSA / Graph Theory | iCodeGuru | [Explore](./2026-05-15-LeetCode-and-Graph-Theory) |
-| **May 2026** | **Python: Beginner to OOPs** | Software Dev | YouTube Series | [Explore](./Python-Mastery-Series) |
+| **May 15, 2026** | **Mastering Graphs & LeetCode** | DSA / Graph Theory | iCodeGuru | [Explore Solutions](https://github.com/bkbilal009/LeetCode) |
+| **May 2026** | **Python: Beginner to OOPs** | Software Dev | YouTube Series | [Explore Repo](https://github.com/bkbilal009/Python-Beginner-to-OOPs-30Days) |
 | **TBA** | **Generative AI & RAG Systems** | Artificial Intelligence | Technical Hub | [Coming Soon] |
 
 ---
 
 ## 🏛️ Featured Session: LeetCode & Graph Theory (May 15)
-In this session, I led a group of aspiring developers through the intricacies of Graph traversals and their applications in competitive programming.
+In this session at **iCodeGuru**, I led a group of 100+ aspiring developers through the intricacies of Graph traversals and their applications in competitive programming.
 *   **Key Topics:** BFS/DFS optimization, Adjacency Lists vs. Matrices, and solving Medium-Hard LeetCode problems.
-*   **Impact:** Provided mental models to 100+ participants for approaching complex data structures.
+*   **Impact:** Provided mental models to participants for approaching complex data structures. All solutions are documented in my [LeetCode Repository](https://github.com/bkbilal009/LeetCode).
 
 ---
 
@@ -48,16 +48,15 @@ In this session, I led a group of aspiring developers through the intricacies of
 
 ---
 
-## 🎓 Note 
+## 🎓 Note to Scholarship Committees
 This repository is a testament to my commitment to academic excellence and community leadership. My goal is to pursue advanced research in **Computer Science/Data Science** and leverage my mentorship experience to contribute effectively to university research groups and teaching assistantships.
 
 ---
 
 ## 📫 Connect with Me
-*   **LinkedIn:** https://www.linkedin.com/in/muhammad-bilal-dev/
-*   **GitHub:** https://github.com/bkbilal009
-*   **Portfolio:**
-*   **Email:** muhammadbilalbluch@gmail.com
+*   **LinkedIn:** [muhammad-bilal-dev](https://www.linkedin.com/in/muhammad-bilal-dev/)
+*   **GitHub:** [bkbilal009](https://github.com/bkbilal009)
+*   **Email:** [muhammadbilalbluch@gmail.com](mailto:muhammadbilalbluch@gmail.com)
 
 ---
 *“Educating the mind without educating the heart is no education at all.” – Aristotle*
